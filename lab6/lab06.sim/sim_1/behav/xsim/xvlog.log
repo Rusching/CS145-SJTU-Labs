@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/ALUCtr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUCtr
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/Ctr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ctr
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/DataMemory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DataMemory
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/Registers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Registers
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/imports/new/Signext.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Signext
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sources_1/new/Top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.srcs/sim_1/new/Top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Top_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

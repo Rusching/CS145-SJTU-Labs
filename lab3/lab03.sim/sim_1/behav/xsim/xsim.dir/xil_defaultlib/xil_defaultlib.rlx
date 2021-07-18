@@ -1,0 +1,11 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/ALUCtr_tb.v,1621387749,verilog,,,,ALUCtr_tb,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/ALU_tb.v,1621396067,verilog,,,,ALU_tb,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/Ctr_tb.v,1621385633,verilog,,,,Ctr_tb,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sources_1/new/ALU.v,1621395389,verilog,,E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/ALU_tb.v,,ALU,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sources_1/new/ALUCtr.v,1621387738,verilog,,E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/ALUCtr_tb.v,,ALUCtr,,,,,,,,
+E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sources_1/new/Ctr.v,1621385493,verilog,,E:/arch/my_files/SSC_CS145/project_files/projects/lab03/lab03.srcs/sim_1/new/Ctr_tb.v,,Ctr,,,,,,,,
