@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Wed Jun 23 18:55:41 2021
+# Process ID: 23508
+# Current directory: E:/arch/reports/tijiao/工程文件/1169_ssc_lab6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent26236 E:\arch\reports\tijiao\工程文件\1169_ssc_lab6\lab06.xpr
+# Log file: E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/vivado.log
+# Journal file: E:/arch/reports/tijiao/工程文件/1169_ssc_lab6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/lab06.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config E:/arch/reports/tijiao/工程文件/1169_ssc_lab6/Top_tb_behav.wcfg
+source Top_tb.tcl
+restart
+run 3000ns
+close_sim
